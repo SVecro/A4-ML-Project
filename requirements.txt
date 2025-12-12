@@ -1,0 +1,12 @@
+numpy
+pandas
+kagglehub
+opencv-python
+Pillow
+scikit-image
+scikit-learn
+xgboost
+imbalanced-learn
+matplotlib
+tqdm
+joblib
