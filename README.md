@@ -10,7 +10,15 @@ This project was developed by engineering students in the *Industry & Robotics �
 
 ## Dataset Description
 
-**Source:** PlanesNet (PlanetScope satellite imagery)
+**Source:**  
+PlanesNet – PlanetScope satellite imagery  
+https://www.kaggle.com/datasets/rhammell/planesnet
+
+**License:**  
+Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)  
+https://creativecommons.org/licenses/by-sa/4.0/
+
+### Dataset Statistics
 
 - **Total Samples:** 32,000  
 - **Image Size:** 20×20 pixels, RGB  
