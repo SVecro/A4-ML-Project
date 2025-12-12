@@ -107,7 +107,7 @@ Served as a baseline, highlighting the need for more expressive models such as e
 
 - Python 3.8+
 - Required libraries:  
-  `numpy`, `pandas`, `opencv-python`, `scikit-learn`, `scikit-image`, `xgboost`, `imbalanced-learn`, `matplotlib`
+  `numpy`, `pandas`, `kagglehub`, `opencv-python`, `Pillow`, `scikit-image`, `scikit-learn`, `xgboost`, `imbalanced-learn`, `matplotlib`, `tqdm`, `joblib`
 
 ### Steps
 
